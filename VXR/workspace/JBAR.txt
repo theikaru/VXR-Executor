@@ -1,0 +1,1 @@
+{"warnSeconds":1.5,"preferUnsafeEsc":false,"enabled":true,"jewlAllowCrims":false,"preferLongTP":false,"bankRadius2":19}
